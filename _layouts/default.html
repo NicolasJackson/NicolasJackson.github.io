@@ -1,0 +1,24 @@
+<!-- 博客主框架 -->
+<!DOCTYPE html>
+<html>
+  <!-- head -->
+  
+  {% include head.html %}
+  
+  <body>
+      <div class="outer">
+        <!-- 头部 -->
+        {% include header.html %}
+
+        <div class="page-content">
+          <div class="wrapper">
+            <!-- 主体 -->
+            {{ content }}
+          </div>
+        </div>
+        <!-- 底部 -->
+        {% include footer.html %}
+      </div>
+  </body>
+  
+</html>
