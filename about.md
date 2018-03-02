@@ -1,11 +1,8 @@
 ---
 layout: page
-title: 关于
+title: 关于我
 permalink: /about/
 ---
 
-我的[github](https://github.com/NicolasJackson/)
-<!-- <a href="https://github.com/{{ include.username }}">
-	<span class="icon icon--github">{% include icon-github.svg %}</span>
-	<span class="username">{{ include.username }}</span>
-</a> -->
+假装有些正经的自我介绍。ps:博客会持续优化修改。
+

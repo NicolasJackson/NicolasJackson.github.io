@@ -1,0 +1,68 @@
+---
+layout: default
+---
+<style type="text/css">
+  aside {background: #fff;}
+</style>
+<div class="home">
+ <div class="top card">
+    <a class="email">{{site.email}}</a>
+    <p class="description">{{ site.description }}</p>
+    <a href="{{site.baseurl}}/about" class="btn">更多</a>
+  </div>
+  
+  <aside>
+    <div>置顶文章细节</div>
+    {% for post in site.posts %}
+        {% if post.stickie != true %}
+           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        {% endif %}    
+    {% endfor %}
+  </aside>
+
+ 
+  <div class="posts card">
+      <div class="card-content white-text">
+      <span class="card-title">Posts</span>
+
+      <ul class="post-list">
+        
+        {% for post in paginator.posts %}
+          <li>
+            <span class="post-meta">{{ post.date | date: "%Y年%m月%d日" }}</span>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>            
+          </li>
+        {% endfor %}
+      </ul>
+     <!-- 分页 -->
+      {% if paginator.total_pages > 1 %}
+      <div class="pagination">
+        {% if paginator.previous_page %}
+          <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+        {% else %}
+          <span>&laquo; Prev</span> 
+        {% endif %}
+
+        {% for page in (1..paginator.total_pages) %}
+          {% if page == paginator.page %}
+            <em>{{ page }}</em>
+          {% elsif page == 1 %}
+            <a href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+          {% else %}
+            <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+          {% endif %}
+        {% endfor %}
+
+        {% if paginator.next_page %}
+          <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+        {% else %}
+          <span>Next &raquo;</span>
+        {% endif %}
+      </div>
+     {% endif %}
+
+     <!-- 分页end -->
+      </div>
+   </div>
+  
+</div>

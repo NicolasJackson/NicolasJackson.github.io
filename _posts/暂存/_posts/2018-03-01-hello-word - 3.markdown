@@ -2,7 +2,7 @@
 layout: post
 title:  "第三篇文章"
 date:   2018-03-01
-categories: tag1
+categories: [tag1,tag3]
 ---
 代码使用“ \` code \` ”包裹起来 。eg:`some code here`。
 

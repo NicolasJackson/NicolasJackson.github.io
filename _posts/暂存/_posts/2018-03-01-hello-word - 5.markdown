@@ -3,6 +3,8 @@ layout: post
 title:  "第五篇文章"
 date:   2018-03-01
 categories: tag1
+tags: [标签,标签3]
+stickie: true
 ---
 代码使用“ \` code \` ”包裹起来 。eg:`some code here`。
 
