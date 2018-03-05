@@ -7,7 +7,7 @@ layout: default
 <h2 class="text-right">
   <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 </h2>
-<h4 class="text-right"><small>{{ post.date | date: "%b %-d, %Y" }}</small></h4>
+<h4 class="text-right"><small>{{ post.date | date: "%Y-%m-%d" }}</small></h4>
         {% if post.description %}
             {{ post.description | strip_html | strip_newlines | truncate: 250 }}
             <p align="right"><a class="btn" href="{{ post.url | prepend: site.baseurl }}">Read more »</a></p>
@@ -20,12 +20,22 @@ layout: default
 <hr>
 <!-- article ends -->
 {% endfor %}
-
+<!-- 分页 -->
 <ul class="pager">
   {% if paginator.previous_page %}
-      <li class="previous"><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer</a></li>
+      <li class="previous"><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; 上一页</a></li>
   {% endif %}
-    {% if paginator.next_page %}
-      <li class="next"><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older &rarr;</a></li>
+  {% for page in (1..paginator.total_pages) %}
+          {% if page == paginator.page %}
+          <li>  <a style="background: #2196f3;color:#fff;">{{ page }}</a></li> 
+          {% elsif page == 1 %}
+           <li> <a href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+          {% else %}</li> 
+           <li> <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+          {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+      <li class="next"><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">下一页 &rarr;</a></li>
   {% endif %}
 </ul>
