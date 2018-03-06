@@ -8,6 +8,7 @@ github_username:  NicolasJackson
 
 # Build settings
 markdown: kramdown
+md: kramdown
 paginate: 3
 gems: [jekyll-paginate]
 paginate_path: "/page/:num"
