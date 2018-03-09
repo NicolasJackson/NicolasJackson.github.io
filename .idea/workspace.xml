@@ -2,63 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ef98c9a-08c0-4326-a6ed-1a4a9a6bc606" name="默认的" comment="。。。这是啥">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/NicolasJackson.github.io.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2016-06-16-sass1.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2016-06-16-welcome-to-jekyl.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-03-05-Sass.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/test.http" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-06-16-welcome-to-jekyll.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/LICENSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/_config.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/_includes/footer.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/_includes/head.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/_includes/header.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/_includes/icon-github.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/_includes/icon-github.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/_includes/icon-twitter.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/_includes/icon-twitter.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/_includes/sider.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/_includes/tags.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/_layouts/default.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/_layouts/page.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/_layouts/post.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/_posts/2018-03-01-hello-word - 2.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/_posts/2018-03-01-hello-word - 3.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/_posts/2018-03-01-hello-word - 4.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/_posts/2018-03-01-hello-word - 5.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/_posts/2018-03-01-hello-word - 6.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/_posts/2018-03-01-hello-word - 7.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/_posts/2018-03-01-hello-word.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/_sass/_base.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/_sass/_buttons.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/_sass/_cards.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/_sass/_forms.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/_sass/_grid.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/_sass/_links.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/_sass/_lists.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/_sass/_misc.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/_sass/_site.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/_sass/_syntax-highlighting.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/_sass/_top.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/_sass/_typography.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/_sass/_util.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/about.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/about/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/assets/headshot.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/assets/hero.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/assets/home.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/category/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/contract/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/css/main.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/feed.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/tag/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/暂存/tags/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-06-16-sass1.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-06-16-welcome-to-jekyl.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-03-05-Sass.markdown" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/css/renge.css" afterPath="$PROJECT_DIR$/css/renge.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -71,7 +19,34 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="2018-03-09-web-dialog.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-03-09-web-dialog.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="60">
+                <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2016-03-04-sass.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2016-03-04-sass.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="40">
+                <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -87,6 +62,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/_sass/test.http" />
+        <option value="$PROJECT_DIR$/_posts/2018-03-09.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-03-09-web-dialog.md" />
+        <option value="$PROJECT_DIR$/_posts/2016-03-04-sass.md" />
       </list>
     </option>
   </component>
@@ -97,9 +75,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="11" />
-    <option name="y" value="35" />
-    <option name="width" value="1346" />
+    <option name="x" value="167" />
+    <option name="y" value="-12" />
+    <option name="width" value="929" />
     <option name="height" value="688" />
   </component>
   <component name="ProjectView">
@@ -122,7 +100,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -149,34 +127,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520314050686</updated>
-      <workItem from="1520314052784" duration="500000" />
+      <workItem from="1520314052784" duration="1173000" />
+      <workItem from="1520315251293" duration="36000" />
+      <workItem from="1520557604225" duration="7834000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="500000" />
+    <option name="totallyTimeSpent" value="9043000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="消息" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.80775714" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288364" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="消息" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.80775714" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -200,7 +181,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -208,7 +188,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -216,7 +195,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -224,7 +202,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -232,7 +209,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
           <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -240,7 +216,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -248,7 +223,116 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="21" column="15" lean-forward="true" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/E:/NicolasJackson.github.io">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$</OriginalElement>
+          <nodes>
+            <node x="" y="">$PROJECT_DIR$/_site/css/bootstrap.min.css</node>
+            <node x="" y="">$PROJECT_DIR$/_site/js/bootstrap.min.js</node>
+            <node x="" y="">$PROJECT_DIR$/_includes/footer.html</node>
+            <node x="" y="">$PROJECT_DIR$/_includes/head.html</node>
+            <node x="" y="">$PROJECT_DIR$/_includes/header.html</node>
+            <node x="" y="">$PROJECT_DIR$/_site/images/headshot.jpg</node>
+            <node x="" y="">$PROJECT_DIR$/_site/tag/index.html</node>
+            <node x="" y="">$PROJECT_DIR$/_site/tags/index.html</node>
+            <node x="" y="">$PROJECT_DIR$/_site/about/index.html</node>
+            <node x="" y="">$PROJECT_DIR$/_site/category/index.html</node>
+            <node x="" y="">$PROJECT_DIR$/_site/index.html</node>
+            <node x="" y="">$PROJECT_DIR$/_site/js/npm.js#affix.js#456;E:/NicolasJackson.github.io/_site/js/npm.js#alert.js#150;E:/NicolasJackson.github.io/_site/js/npm.js#button.js#179;E:/NicolasJackson.github.io/_site/js/npm.js#carousel.js#209;E:/NicolasJackson.github.io/_site/js/npm.js#collapse.js#241;E:/NicolasJackson.github.io/_site/js/npm.js#dropdown.js#273;E:/NicolasJackson.github.io/_site/js/npm.js#modal.js#305;E:/NicolasJackson.github.io/_site/js/npm.js#popover.js#365;E:/NicolasJackson.github.io/_site/js/npm.js#scrollspy.js#396;E:/NicolasJackson.github.io/_site/js/npm.js#tab.js#429;E:/NicolasJackson.github.io/_site/js/npm.js#tooltip.js#334;E:/NicolasJackson.github.io/_site/js/npm.js#transition.js#116;</node>
+            <node x="" y="">$PROJECT_DIR$/js/npm.js#affix.js#456;E:/NicolasJackson.github.io/js/npm.js#alert.js#150;E:/NicolasJackson.github.io/js/npm.js#button.js#179;E:/NicolasJackson.github.io/js/npm.js#carousel.js#209;E:/NicolasJackson.github.io/js/npm.js#collapse.js#241;E:/NicolasJackson.github.io/js/npm.js#dropdown.js#273;E:/NicolasJackson.github.io/js/npm.js#modal.js#305;E:/NicolasJackson.github.io/js/npm.js#popover.js#365;E:/NicolasJackson.github.io/js/npm.js#scrollspy.js#396;E:/NicolasJackson.github.io/js/npm.js#tab.js#429;E:/NicolasJackson.github.io/js/npm.js#tooltip.js#334;E:/NicolasJackson.github.io/js/npm.js#transition.js#116;</node>
+            <node x="" y="">$PROJECT_DIR$/_site/images/op.ico</node>
+            <node x="" y="">$PROJECT_DIR$/_site/css/renge.css</node>
+            <node x="" y="">$PROJECT_DIR$/_site/前端/css/2018/03/05/sass1.html</node>
+            <node x="" y="">$PROJECT_DIR$/_site/前端/css/2018/03/05/welcome-to-jekyl.html</node>
+            <node x="" y="">/css/bootstrap.min.css</node>
+            <node x="" y="">/css/renge.css</node>
+            <node x="" y="">/images/headshot.jpg</node>
+            <node x="" y="">/images/op.ico</node>
+            <node x="" y="">/js/bootstrap.min.js</node>
+            <node x="" y="">affix.js</node>
+            <node x="" y="">alert.js</node>
+            <node x="" y="">button.js</node>
+            <node x="" y="">carousel.js</node>
+            <node x="" y="">collapse.js</node>
+            <node x="" y="">dropdown.js</node>
+            <node x="" y="">http://localhost:4000/</node>
+            <node x="" y="">http://localhost:4000/%E5%89%8D%E7%AB%AF/css/2018/03/05/sass1.html</node>
+            <node x="" y="">http://localhost:4000/%E5%89%8D%E7%AB%AF/css/2018/03/05/welcome-to-jekyl.html</node>
+            <node x="" y="">http://localhost:4000/about/</node>
+            <node x="" y="">http://localhost:4000/category/</node>
+            <node x="" y="">http://localhost:4000/feed.xml</node>
+            <node x="" y="">http://localhost:4000/tag/</node>
+            <node x="" y="">http://localhost:4000/tags/</node>
+            <node x="" y="">https://code.jquery.com/jquery.js</node>
+            <node x="" y="">modal.js</node>
+            <node x="" y="">popover.js</node>
+            <node x="" y="">scrollspy.js</node>
+            <node x="" y="">tab.js</node>
+            <node x="" y="">tooltip.js</node>
+            <node x="" y="">transition.js</node>
+            <node x="" y="">{{</node>
+            <node x="" y="">{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}</node>
+            <node x="" y="">{{ site.baseurl }}/images/headshot.jpg</node>
+            <node x="" y="">{{ site.baseurl }}/js/bootstrap.min.js</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.46890308839190625" x="922.0" y="1207.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-03-09.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-06-16-welcome-to-jekyl.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-03-09-web-dialog.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-03-04-sass.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="40">
+            <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
