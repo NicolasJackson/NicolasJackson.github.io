@@ -4,7 +4,7 @@ email: susang945@163.com
 description: 此博客使用jekyll+github搭建。
 url: "https://susang945.github.io" 
 twitter_username:
-github_username:  susang945
+github_username: susang945
 
 # Build settings
 markdown: kramdown
